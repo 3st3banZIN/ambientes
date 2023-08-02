@@ -1,3 +1,3 @@
 .class{
-    accessor_line
+    accessor_line_border
 }
