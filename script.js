@@ -1,0 +1,3 @@
+.class{
+    accessor_line
+}
